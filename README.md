@@ -1,9 +1,25 @@
-# Netflic-clone
+# Netflix Clone
 
-<h2>Here I made a Netflix clone</h2>
+*This a website where an user can be able to search any movie he/she wants.*
 
-<img src="https://www.bing.com/images/blob?bcid=S1DLia-2xhsEYQ" />
-<h2>Here's the link of my demo Netflix clone project: <a href="https://netflixcloneks.netlify.app/" target="_blank">Netflix clone</a> </h2>
-<h3>Languages that we have used in this project:- HTML  | CSS  | JavaScript</h3>
-<h3>
-A Netflix clone which let you search your movie.You can also search a particular movie.</h3>
+## Technology Stack Used
+
+- #### Languages
+  - `HTML`
+  - `CSS`
+  - `Javascript`
+
+
+## Snapshot 📷
+- Landing Page (Main Page):
+  
+![Main Page](https://user-images.githubusercontent.com/97525903/167254785-7b88c940-fa65-47dd-b7ac-97b47f575b75.png)
+
+
+
+### Limitations:
+This site is not responsive yet.
+(Recomended Resolution: 1366 x 768 )
+
+# Link to the website : 
+https://netflixcloneks.netlify.app/
